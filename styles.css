@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(220, 20, 20);
+    text-align: center;
+  }
+
+button {
+    color: #281ee3;
+    text-rendering: auto;
+    text-align: center;
+}
